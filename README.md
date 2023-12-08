@@ -24,3 +24,8 @@ Some of my config options like git alias or vimrc.
 
 #### Vim
 Please, check [vimrc](dotfiles/vimrc) to see every plugin I've used.
+
+### Bibliography and related sources
+* [Makigas: Tutorial de Git](https://www.makigas.es/series/tutorial-de-git)
+* [Makigas: GNU Make](https://www.makigas.es/series/make)
+* [Makigas: Tutorial de C](https://www.makigas.es/series/tutorial-de-c)

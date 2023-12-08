@@ -13,6 +13,12 @@ choices but, please, keep in mind that this is a didactic project.
 
 ## Appendix
 
+### Style guidelines
+* [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+    * Feature
+    * Docs
+    * Typo
+
 ### Dotfiles
 Some of my config options like git alias or vimrc.
 
